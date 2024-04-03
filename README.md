@@ -1,0 +1,2 @@
+# NoroLexStudio1
+1
